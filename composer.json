@@ -1,0 +1,13 @@
+{
+    "name": "khalis/latihan_composer",
+    "description": "Latihan",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Khalis Pancaroba"
+        }
+    ],
+    "scripts": {
+        "server": "php -S localhost:8080"
+    }
+}

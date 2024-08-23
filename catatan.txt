@@ -1,2 +1,7 @@
 Code yang saya buat ini berisi halaman login, halaman utama, halaman about me, halaman watch video, saya menggunakan library bootstrap, 
 MVC yang saya pakai sudah ada pada code tesebut cuma tidak sepenuhnya saya rasa.
+
+
+NAMA : KHALIS PANCAROBA
+KELAS : 2AEC1
+NIM : 223443014
